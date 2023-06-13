@@ -1,0 +1,253 @@
+body {
+    background-color: #E5E5E5;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    color: #757575;
+    position: absolute;
+    box-sizing: border-box;
+    max-width: 100%;
+}
+
+.button-edit, .button-header{
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1em;
+    letter-spacing: 0.02em;
+    cursor: pointer;
+}
+.button-header{
+    color: #212121;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+}
+
+.button-edit:hover{
+    color: #2196F3;
+}
+.button-header:hover{
+    color: #2196F3;
+}
+
+.solution{
+    background-color: #2F303A;
+    align-items:center;
+    display:flex; 
+    flex-direction: column;
+    width: 1600px;
+    height: 600px;
+    max-width: 100%;
+}
+
+.nav-button{
+    background-color: #2196F3;
+    color: white;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 1.938em;
+    border-color: black;
+    cursor: pointer;
+    margin-top: 30px;
+    padding: 10px;
+    padding-left: 32px;
+    padding-right: 32px;
+    
+}
+.solution-little{
+    margin-top: 100px;
+    margin-left: 452px;
+    margin-right: 452px;
+    width: 696px;
+    height: 165px;
+    margin-bottom: 125px;
+}
+
+.nav-link{
+    font-family: 'raleway';
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+    color: #2196F3;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+h1{
+    font-weight: 900;
+    font-size: 44px;
+    line-height: 3.75em;
+    color: #FFFFFF;
+    text-transform: capitalize;
+    letter-spacing: 0.06em;
+    text-align: center;
+}
+
+h2{
+    color: #212121;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 42px;
+    text-transform: capitalize;
+}
+
+h3{
+    color: #212121;
+    text-transform: uppercase;
+}
+
+h4{
+    color: #212121;
+}
+.advantages{
+    letter-spacing: 0.03em;
+}
+a{
+    color: #757575;
+    text-decoration: none;
+    letter-spacing: 0.03em;
+}
+.direction{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.5em;
+    letter-spacing: 0.03em;
+    color:#FFFFFF;
+    font-style:normal;
+}
+
+footer{
+    background-color: #2F303A;
+    display: flex;
+    flex-direction: row;
+    width: 1600px;
+    height: 252px;
+    align-items:center;
+    max-width: 100%;
+}
+.find-us-at{
+    color: #FFFFFF;
+}
+li{
+    list-style: none;
+}
+.ventajas{
+    width: 1170px;
+    height: 122px;
+    left: 215px;
+    top: 775px;
+    display: flex;
+    padding-bottom: 10em;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 300px;
+}
+.nuestro-equipo{
+    display: flex;
+    max-width: 100%;
+}
+.nos-dedicamos-a{
+    display: flex;
+}
+.advantages{
+    display: flex;
+    width: 1170px;
+    height: 122px;
+    left: 215px;
+    top: 775px;
+    padding-top: 55px;
+    
+}
+.atencion{
+    margin: 30px;
+    width: 270px;
+    height: 75px;
+    margin-left: 70px;
+}
+.puntualidad{
+    padding: 30px;
+    width: 270px;
+    height: 75px;
+}
+.planificacion{
+    padding: 30px;
+    width: 270px;
+    height: 75px;
+}
+.tecnologia{
+    padding: 30px;
+    width: 270px;
+    height: 75px;
+}
+nav{
+    display: flex;
+    max-width: 100%;
+}
+.nav-buttons{
+    display: flex;
+}
+.button-header,.button-edit{
+    margin-bottom: 32px;
+    margin-top: 32px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.escritorio{
+    margin: 30px;
+    margin-left: 10px;
+}
+.telefono{
+    margin: 30px;
+}
+.color{
+    margin: 30px;
+}
+.nos-dedicamos-a{
+    margin-bottom: 188px;
+    margin-top: 55px;
+    align-items: center;
+}
+.a-que-nos-dedicamos{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+.websites{
+    flex-direction: row;
+    display: flex;
+}
+.button-edit{
+    margin: 10px;
+}
+.ubications{
+    display: flex;
+    flex-direction: column;
+    align-items:flex-start;
+}
+.final{
+    margin: 60px;
+    max-width: 100%;
+}
+.carla{
+    margin: 37px;
+}
+.mario{
+    margin: 37px;
+}
+.pablo{
+    margin: 37px;
+}
+.andres{
+    margin-right: 37px;
+    margin-left: 10px;
+    margin-top: 37px;
+}
+.equipo{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 100%;
+}
+.nuestras-ventajas{
+    margin-left: 180px;
+}

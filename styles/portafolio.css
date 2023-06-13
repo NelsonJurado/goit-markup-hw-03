@@ -1,0 +1,185 @@
+body{
+    background-color: #E5E5E5;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    color: #757575;
+    max-width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+li{
+    list-style: none;
+    padding: none;
+}
+footer{
+    background-color: #2F303A;
+}
+a{
+    text-decoration: none;
+    color: #757575;
+}
+.nav-link{
+    font-family: 'raleway';
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+    color: #2196F3;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+button{
+    cursor: pointer;
+    outline: none;
+    border-color: rgba(255, 255, 255, 100%);
+}
+.buttons:hover{
+    color: #2196F3;
+}
+.links:hover{
+    color: #2196F3;
+}
+.find-us-at{
+    color: #FFFFFF;
+}
+h3{
+    color: black;
+}
+.direction{
+    font-weight: 400;
+    font-size: 14px;
+    letter-spacing: 0.03em;
+    color:#FFFFFF;
+    font-style:normal;
+}
+.productos-tecnoduck:hover {
+    cursor: pointer;
+    box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);
+}
+.productos-orleands-vs-estrella:hover {
+    cursor: pointer;
+    box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);
+}
+.productos-restaurante-seafood:hover {
+    cursor: pointer;
+    box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);
+}
+.productos-proyecto-prime:hover {
+    cursor: pointer;
+    box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);
+}
+.productos-proyecto-cajas:hover {
+    cursor: pointer;
+    box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);
+}
+.productos-insmiracion-sin-limites:hover {
+    cursor: pointer;
+    box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);
+}
+.productos-edicion-limitada:hover {
+    cursor: pointer;
+    box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);
+}
+.productos-proyecto-lab:hover {
+    cursor: pointer;
+    box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);
+}
+.productos-proyecto-en-crecimiento:hover {
+    cursor: pointer;
+    box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);
+}
+nav{
+    display: flex;
+    flex-direction: row;
+    max-width: 100%;
+    align-items: center;
+}
+.more{
+    max-width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-left: 450px;
+}
+.buttons-more:hover{
+    background-color: #2196F3;
+    color: #E5E5E5;
+}
+.buttons-more{
+    padding: 8px;
+    margin: 8px;
+    border-radius: 10px;
+}
+.productos{
+    display: flex;
+    max-width: 100%;
+    flex-wrap: wrap;
+    align-items: center;
+}
+.productos-tecnoduck{
+    width: 370px;
+    height: 404px;
+    margin: 30px;
+}
+.productos-orleands-vs-estrella{
+    width: 370px;
+    height: 404px;
+    margin: 30px;
+}
+.productos-restaurante-seafood{
+    width: 370px;
+    height: 404px;
+    margin: 30px;
+}
+.productos-proyecto-prime{
+    width: 370px;
+    height: 404px;
+    margin: 30px;
+}
+.productos-proyecto-cajas{
+    width: 370px;
+    height: 404px;
+    margin: 30px;
+}
+.productos-inspiracion-sin-limites{
+    width: 370px;
+    height: 404px;
+    margin: 30px;
+}
+.productos-edicion-limitada{
+    width: 370px;
+    height: 404px;
+    margin: 30px;
+}
+.productos-proyecto-lab{
+    width: 370px;
+    height: 404px;
+    margin: 30px;
+
+}
+.productos-proyecto-en-crecimiento{
+    width: 370px;
+    height: 404px;
+    margin: 30px;
+}
+ul{
+    padding: none;
+}
+img{
+    width: 330px;
+}
+.nav-buttons{
+    display: flex;
+    flex-direction: row;
+    margin: 32px;
+}
+.buttons{
+    margin-right: 50px;
+}
+.nav-links{
+    margin-left: 350px;
+    display: flex;
+    flex-direction: row;
+}
+.buttons{
+    color: #212121;
+}
