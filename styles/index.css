@@ -2,7 +2,6 @@ body {
     background-color: #E5E5E5;
     font-family: 'Roboto', sans-serif;
     font-style: normal;
-    color: #757575;
     position: absolute;
     box-sizing: border-box;
     max-width: 100%;
@@ -140,11 +139,13 @@ li{
     padding-bottom: 10em;
     flex-direction: column;
     align-items: center;
+
     padding-bottom: 300px;
 }
 .nuestro-equipo{
     display: flex;
     max-width: 100%;
+    color: #757575;
 }
 .nos-dedicamos-a{
     display: flex;
@@ -230,17 +231,21 @@ nav{
 }
 .carla{
     margin: 37px;
+    background-color: white;
 }
 .mario{
     margin: 37px;
+    background-color: white;
 }
 .pablo{
     margin: 37px;
+    background-color: white;
 }
 .andres{
     margin-right: 37px;
     margin-left: 10px;
     margin-top: 37px;
+    background-color: white;
 }
 .equipo{
     display: flex;
